@@ -3731,8 +3731,9 @@ width = 300;
 unicode = 0020;
 },
 {
+export = 0;
 glyphname = _corner.01;
-lastChange = "2017-11-19 10:56:55 +0000";
+lastChange = "2017-11-19 13:08:08 +0000";
 layers = (
 {
 anchors = (
@@ -3784,8 +3785,9 @@ width = 600;
 );
 },
 {
+export = 0;
 glyphname = _corner.02;
-lastChange = "2017-11-18 12:22:58 +0000";
+lastChange = "2017-11-19 13:08:08 +0000";
 layers = (
 {
 layerId = "71411993-19D9-448E-BF2F-5CFC0F6AC4B0";
