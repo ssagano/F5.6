@@ -28,7 +28,7 @@ ac,
 8,
 HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH,
 0102030405060708090,
-"Kingsman Goldbqpoen Cilcle"
+"Kingsman Goldbqpoen Cilcle F5.6\012Finger"
 );
 copyright = "Copyright (C) 2015 by Sora Sagano.";
 date = "2017-11-19 11:44:34 +0000";
@@ -488,7 +488,7 @@ unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2018-01-07 12:15:21 +0000";
+lastChange = "2018-01-09 12:41:52 +0000";
 layers = (
 {
 hints = (
@@ -558,7 +558,7 @@ nodes = (
 );
 }
 );
-width = 704;
+width = 724;
 }
 );
 leftMetricsKey = H;
@@ -4714,7 +4714,7 @@ unicode = 0034;
 },
 {
 glyphname = five;
-lastChange = "2018-01-07 11:04:39 +0000";
+lastChange = "2018-01-09 12:44:09 +0000";
 layers = (
 {
 hints = (
@@ -4769,24 +4769,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"270 503 LINE",
-"270 754 LINE",
+"264 503 LINE",
+"264 754 LINE",
 "600 754 LINE",
 "600 870 LINE",
-"150 870 LINE",
-"150 387 LINE",
-"510 387 LINE",
-"510 116 LINE",
-"250 116 LINE",
-"250 240 LINE",
-"130 240 LINE",
-"130 0 LINE",
-"630 0 LINE",
-"630 503 LINE"
+"144 870 LINE",
+"144 387 LINE",
+"520 387 LINE",
+"520 116 LINE",
+"230 116 LINE",
+"230 240 LINE",
+"110 240 LINE",
+"110 0 LINE",
+"640 0 LINE",
+"640 503 LINE"
 );
 }
 );
-width = 770;
+width = 778;
 }
 );
 unicode = 0035;
